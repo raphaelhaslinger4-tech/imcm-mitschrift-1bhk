@@ -16,4 +16,25 @@ sie kann auch *Machine Learning* heißen
 - das Imternet wurde in den 1970er-Jahren entwickelt
 -Motivation:Schaffung eines dezentrale Netzwerks, das auch nach einem Atomschlage noch funktioniert ( Ko0ntext des Kalten Krieges)
 - Funktionsweise: Paketvermittlung (*PaketSwitching*) - Nachrichten bzw. Dateien werde in kleine Pakete aufgeteilt und unabhängig voneinander über das Netzwerk verschickt
-- Internet: das Netz der Netzwerke besteht aus vielen kleineren Netzen unterschiedlicher Internet anbietern (*Internet Service Provider ISP*) Salzburg Ag, Magenta , A1
+- Internet: das Netz der Netzwerke besteht aus vielen kleineren Netzen unterschiedlicher Internet anbietern (*Internet Service Provider ISP*, z.B. : Salzburg Ag, Magenta , A1, ...)
+### Teil 2 - The Internet : Wires, Cables and Wifi
+
+Informationen werden im Internet als Bits übertragen. Bits haben zwei Werte 0 und 1. 8Bits zusammengefasst ergeben 1 Byte. Mit einem Byte kann man 256 verschiedene Werte speichern (2^8).
+Bits können über verschiedene Übertragungsmedien zwischeb Computern versendet werden. Die Anzahl der Übertragenen Bits pro Sekunde wird als **Bandbreite** bezeichnet. Bei einer Bandbreite von 300MBit/skönnen beispielsweise 300 Millionen Bits pro Sekunde über die Leistung laufen. Übertragungsmedien:
+
+**1. Elekrizität / Kupferdrat (Ethernet)**
+
+- billig
+- einfache in der  Verarbeitung
+- weit verbreitet
+- hohe Verluste über mittlere und lange Distanzen (hunderte Meter)
+
+**2. Licht / Glasfaserkabel**
+- schnelle Übertraguhng#
+- verlustfrei 
+- geeignet für Ozeankabel
+- teuer und schwierig der verabeitung
+
+**3. Funk / Radiowellen**
+
+- hoher Konfort, Internet überall
