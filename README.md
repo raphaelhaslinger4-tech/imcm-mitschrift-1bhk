@@ -30,7 +30,7 @@ Bits können über verschiedene Übertragungsmedien zwischeb Computern versendet
 - hohe Verluste über mittlere und lange Distanzen (hunderte Meter)
 
 **2. Licht / Glasfaserkabel**
-- schnelle Übertraguhng#
+- schnelle Übertraguhng
 - verlustfrei 
 - geeignet für Ozeankabel
 - teuer und schwierig der verabeitung
@@ -47,3 +47,14 @@ Bits können über verschiedene Übertragungsmedien zwischeb Computern versendet
 - jedes Gerät im Internet hat zumindest eine (eindeutige) IP-Adresse, viele Geräte haben aber eine externe IP (ähnlich wie die Hausnummer) und eine interne IP (ähnlich wie die Raumnummer)
 - das *Domain Name System* (DNS) übersetzt menschenlesbare Domainnamen (z.B.: www.google.com) in IP-Adressen
 - DNS-Server führen Tabellen mit Domainnamen und den entsprechenden IP-Adressen
+### Teil 8 - The Internet: How Search Works
+
+- Suchmaschienen-Bots (*Crawler*) durchstreifen stätig das WWW und katalogisieren Websites. Der so entstehende Katalog wird auch **Index** genannt.
+- wenn wir einen Suchbegriff bei Google (oder einer andereren *Search Engine*) eingabe, wird Nicht das WWW durchsucht sondern lediglich der zuvor erstellte Index.
+- Suhergebnisse werden auf Basis eines (geheimen)
+Algorithmus gerankt - Ergebnisse, die weiter oben stehen, werden öfter angeklickt
+- Einfluss auf das Ranking haben u. a.:
+    - im Text vorkommende Suchbegriffer (*Keywords*)
+    - Links, die auf meine Seite zeigen (*Backlinks*)
+- die Suchergebnisse werden an die Benutzer*innen angepasst! D.h., nicht jede/r sieht die gleichen Informationen, selbst wenn sie idente Suchanfragendurchführen!
+- [Startpage](https://www.startpage.com/) ist eine datensparsame Suchmaschine, ihren 
